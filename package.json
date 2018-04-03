@@ -1,17 +1,16 @@
 {
-  "name": "adal-angular",
+  "name": "adal-angular-resources",
   "author": {
-    "name": "Microsoft",
-    "email": "nugetaad@microsoft.com",
-    "url": "https://www.microsoft.com"
+    "name": "Dan Corbiani",
+    "email": "dancorbiani@gmail.com"
   },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AzureAD/azure-activedirectory-library-for-js.git"
+    "url": "https://github.com/skorski/azure-activedirectory-library-for-js.git"
   },
-  "version": "1.0.17",
-  "description": "Windows Azure Active Directory Client Library for js",
+  "version": "1.0.17-resource-v2",
+  "description": "FORKED FROM Windows Azure Active Directory Client Library for js",
   "keywords": [
     "implicit",
     "js",
